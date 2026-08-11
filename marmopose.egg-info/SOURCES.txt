@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+marmopose/__init__.py
+marmopose/config.py
+marmopose/version.py
+marmopose.egg-info/PKG-INFO
+marmopose.egg-info/SOURCES.txt
+marmopose.egg-info/dependency_links.txt
+marmopose.egg-info/requires.txt
+marmopose.egg-info/top_level.txt

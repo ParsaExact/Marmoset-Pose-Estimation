@@ -1,0 +1,6 @@
+Pillow
+h5py
+seaborn
+scikit-video
+av
+open3d
