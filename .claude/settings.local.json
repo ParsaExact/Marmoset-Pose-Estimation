@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(C:/Users/user/anaconda3/envs/marmopose-new/python.exe -c ' *)"
+    ]
+  }
+}
